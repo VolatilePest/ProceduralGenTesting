@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Procedural Map Test.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
